@@ -134,8 +134,6 @@ The dashboard includes the following visualizations:
 # 📁 Repository Structure
 
 ```
-
-```text
 Zomato-Project/
 │
 ├── Country_Code.xlsx
