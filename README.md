@@ -134,13 +134,16 @@ The dashboard includes the following visualizations:
 # 📁 Repository Structure
 
 ```
-Zomato-Restaurant-Analytics
+
+```text
+Zomato-Project/
 │
-├── Zomato_Restaurant_Analytics_Dashboard.pbix
-├── Zomato_Dataset.xlsx
 ├── Country_Code.xlsx
-├── dashboard.png
-└── README.md
+├── README.md
+├── Zomato_Dashboard.png
+├── Zomato_Dataset.csv
+└── Zomato_Restaurant_Analytics_Dashboard.pbix
+
 ```
 
 ---
