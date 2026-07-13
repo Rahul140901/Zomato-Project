@@ -151,7 +151,7 @@ Zomato-Project/
 1. Clone this repository.
 
 ```
-git clone https://github.com/yourusername/Zomato-Restaurant-Analytics.git
+git clone https://github.com/Rahul140901/Zomato-Project
 ```
 
 2. Open the `.pbix` file using **Power BI Desktop**.
