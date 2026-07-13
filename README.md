@@ -49,7 +49,7 @@ The restaurant industry generates large volumes of customer and operational data
 
 > **Dashboard Screenshot**
 
-![Dashboard](Uploading Zomato_Dashboard.png)
+![Dashboard](Zomato_Dashboard.png)
 
 
 ---
