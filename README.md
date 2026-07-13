@@ -148,19 +148,10 @@ Zomato-Project/
 
 # 🚀 Getting Started
 
-1. Clone this repository.
-
-```
-git clone https://github.com/Rahul140901/Zomato-Project
-```
-
-2. Open the `.pbix` file using **Power BI Desktop**.
-
-3. Refresh the dataset if necessary.
-
-4. Explore the dashboard using interactive filters and visualizations.
-
----
+1. Download the repository.
+2. Open **Zomato_Restaurant_Analytics_Dashboard.pbix** using **Power BI Desktop**.
+3. Explore the interactive dashboard using the available filters and slicers.
+4. Review the dataset and dashboard screenshot included in the repository.
 
 # 🎯 Skills Demonstrated
 
